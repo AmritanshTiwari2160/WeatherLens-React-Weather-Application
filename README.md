@@ -1,7 +1,5 @@
-**<p align='center'>Visit the live website : <a href="https://weatherlens-react-weather-application.onrender.com/">🌐 [Weatherlens - Weather Application]</a></p>**
-
 # WeatherLens - React Weather Application
-
+**<p align='center'>Visit the live website : <a href="https://weatherlens-react-weather-application.onrender.com/"> [Weatherlens - Weather Application]</a></p>**
 WeatherLens is a modern and intuitive weather application that provides real-time weather information for any location. Built using React, it leverages the Visual Crossing Weather API to deliver accurate and detailed weather updates with a responsive and visually appealing design.
 
 ## Features
