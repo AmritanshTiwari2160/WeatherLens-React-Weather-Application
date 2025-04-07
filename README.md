@@ -34,7 +34,7 @@ WeatherLens is a modern and intuitive weather application that provides real-tim
 1. Clone the repository:
    ```bash
    git clone https://github.com/AmritanshTiwari2160/WeatherLens-React-Weather-Application.git
-   cd WeatherLens-React-Weather-application
+   cd WeatherLens-React-Weather-Application
    ```
 
 2. Install dependencies:
